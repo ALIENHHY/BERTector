@@ -2,6 +2,8 @@
 NIDS with LLM and LORA
 
 # File Path:
+
+```plaintext
 main
 ├── data
 │   ├── sft
@@ -16,10 +18,13 @@ main
 ├── trainer
 │   ├── test_trainer-sft
 │   │   ├── checkpoint-1250
-│   │   ├── checkpoint-2500
+                  ...
 │   ├── test_trainer-sft-diy
+                  ...
 │   ├── test_trainer-sft-diy-lora
+                  ...
 │   ├── test_trainer-sft-diy-lora-mixed
+                  ...
 ├── bert-base-uncased
 ├── test-sft.ipynb
 ├── test-sft-diy.ipynb
