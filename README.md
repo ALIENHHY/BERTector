@@ -22,7 +22,6 @@ main
 │   │   ├── NSL-KDD-100000-sft.csv
 │   │   ├── NSL-KDD-400000-sft.csv
 │   ├── test
-│   │   ├── CICIDS2018-10000.csv
 │   │   ├── KDD99-10000.csv
 │   │   ├── NSL-KDD-10000.csv
 │   │   ├── UNSW_NB15-10000.csv
