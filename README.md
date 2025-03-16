@@ -1,5 +1,5 @@
 # NIDS-with-LLM
-NIDS with LLM and LORA
+NIDS based on Bert, DIY-Tokenizer and LoRA!
 
 File Path:
 ---
