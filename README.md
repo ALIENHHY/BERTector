@@ -14,7 +14,7 @@ main
 │   ├── Random_Perturbation.ipynb
 │   ├── NSL-KDD-10000.csv
 ├── comparative
-│   ├── Deep_learning.ipynb
+│   ├── Deep_Learning.ipynb
 │   ├── Machine_Learning.ipynb
 ├── data
 │   ├── sft
