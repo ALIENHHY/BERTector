@@ -6,16 +6,29 @@ File Path:
 
 ```plaintext
 main
+├── ablation
+│   ├── train-lora.ipynb
+│   ├── test-lora.ipynb
+│   ├──      ...
+├── adversarial
+│   ├── Random_Perturbation.ipynb
+│   ├── NSL-KDD-10000.csv
+├── comparative
+│   ├── Deep_learning.ipynb
+│   ├── Machine_Learning.ipynb
 ├── data
 │   ├── sft
 │   │   ├── Mixed-sft-500000.csv
 │   │   ├── NSL-KDD-100000-sft.csv
+│   │   ├── NSL-KDD-400000-sft.csv
 │   ├── test
 │   │   ├── CICIDS2018-10000.csv
 │   │   ├── KDD99-10000.csv
 │   │   ├── NSL-KDD-10000.csv
 │   │   ├── UNSW_NB15-10000.csv
 │   │   ├── X-IIoTID-10000.csv
+│   │   ├── NSL-KDD-Gamma.csv
+│   │   ├──       ...
 ├── trainer
 │   ├── test_trainer-sft
 │   │   ├── checkpoint-1250
@@ -26,6 +39,7 @@ main
 │   │   ├──       ...
 │   ├── test_trainer-sft-diy-lora-mixed
 │   │   ├──       ...
+│   ├──      ...
 ├── bert-base-uncased
 ├── test-sft.ipynb
 ├── test-sft-diy.ipynb
