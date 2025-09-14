@@ -1,4 +1,4 @@
-# BERTector
+# BERTector: An Intrusion Detection Framework Constructed via Joint-dataset Learning Based on Language Model
 Intrusion detection systems (IDS) are widely used to maintain the stability of network environments, but still face restrictions in generalizability due to the heterogeneity of network traffics. In this work, we propose \textit{BERTector}, a new framework of joint-dataset learning for IDS based on BERT. \textit{BERTector} integrates three key components: NSS-Tokenizer for traffic-aware semantic tokenization, supervised fine-tuning with a hybrid dataset, and low-rank adaptation for efficient fine-tuning. Experiments show that \textit{BERTector} achieves state-of-the-art detection accuracy, strong generalizability, and excellent robustness. \textit{BERTector} achieves the highest accuracy of 99.28\% on NSL-KDD and reaches a 80\% average detection success rate against four mainstream perturbations. These results establishes a unified and efficient solution for modern IDS in complex and dynamic network environments.
 
 File Path:
